@@ -80,6 +80,10 @@ As this portfolio grows throughout Web Scripting 2, future updates may include:
 * Expanded portfolio content
 
 ---
+## Live Site
+
+[(GitHub Pages link)](https://ethyates.github.io/Ethan-s-Developer-Portfolio/)
+---
 
 ## Author
 
